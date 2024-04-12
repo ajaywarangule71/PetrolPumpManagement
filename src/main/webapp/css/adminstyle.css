@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.control{
+	width:400px;
+	height:40px;
+	border-radius:10px;
+	padding:10px;
+	border:2px solid black;
+}
+.col{
+background-size: 100% 100%;
+background-image: url(../images/bgpump.jpeg);
+color:Red;
+}
+
+.formarea{
+	position:absolute;
+	left:500px;
+	top:100px;
+	padding:40px;
+	border:2px solid black;
+	background-color:yellow;
+	border-radius:20px;
+	font-size:20px;
+	color:black;
+}
+.cont{
+	width:310px;
+	height:40px;
+	border-radius:10px;
+	padding:10px;
+	border:2px solid black;
+}
+.table{
+	padding:40px;
+	border:2px solid black;
+	background-color:yellow;
+	border-radius:20px;
+	font-size:20px;
+	
+}
